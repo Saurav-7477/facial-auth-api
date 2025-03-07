@@ -1,0 +1,11 @@
+django 
+djangorestframework 
+djangorestframework-simplejwt 
+opencv-python 
+numpy 
+deepface 
+pillow
+tf-keras
+celery 
+redis
+flower

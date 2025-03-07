@@ -1,0 +1,11 @@
+# Ignore Python compiled files
+facial_recognition_env/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+venv/
+.env
+.idea/
+.vscode/
